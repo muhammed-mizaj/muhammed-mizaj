@@ -1,7 +1,7 @@
 # Hey, I'm [Muhammed](https://mdthegamer.github.io/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I love to talk on trending ⚡ technology ⚡, I have huge attraction on Tech and I am a bit <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50">. 
-- ![](https://komarev.com/ghpvc/?username=mdthegamer&color=dc143c)<br/>
+I love to talk on trending ⚡ technology ⚡, I have huge attraction on Tech and I am a bit <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50">. <br><br>
+  ![](https://komarev.com/ghpvc/?username=mdthegamer&color=dc143c)<br/>
 # <h2>Connect with me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 [![Twitter Badge](https://img.shields.io/badge/-mizaj_muhammed-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/moshfiqrony/)](https://twitter.com/moshfiqrony/)
@@ -10,6 +10,7 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on Tech an
 [![Gmail Badge](https://img.shields.io/badge/-mmizaj@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:15203012@iubat.edu)](mailto:15203012@iubat.edu)
 [![Youtube Badge](https://img.shields.io/badge/-Inflective_Techie_World%20-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC4f6w95BfQziD3f_DuZzvyQ)](https://www.youtube.com/channel/UC4f6w95BfQziD3f_DuZzvyQ)
 [![Instagram Badge](https://img.shields.io/badge/-muhammed_10-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/moshfiqrony/)](https://instagram.com/moshfiqrony)
+<br><br>
 
 # Info
 - 🏢 I'm currently working at **None**
@@ -17,6 +18,8 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on Tech an
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+
+  
 - 💻 I work using:
   ![MaterialUI](https://img.shields.io/badge/-MaterialUI-0081CB?style=plastic&logo=material-UI)
   ![Dart](https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart)
@@ -24,6 +27,8 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on Tech an
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter)
+  
+
 
 
 - ⚙️ I also use and work: ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java) ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
@@ -32,7 +37,10 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on Tech an
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
 - 🌱 Learning all about:
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb) ![Express.JS](https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express) ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react) ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
+  <br><br>
 - ⚡️ Fun fact: I'm a huge fan of No One, I love to eat and travel
+<br><br>
+
 
 **🔨 Languages and Tools**  
 
@@ -41,6 +49,7 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on Tech an
 
 
 
+<br><br>
 
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
