@@ -63,7 +63,7 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on Tech an
 <br><br><br><br><br>
    
 <hr>
-
+<img src="https://instagram.fccj2-1.fna.fbcdn.net/v/t51.2885-15/e35/220708104_3915963561847027_1455170104564288361_n.jpg?_nc_ht=instagram.fccj2-1.fna.fbcdn.net&amp;_nc_cat=107&amp;_nc_ohc=YevCHKSAL-4AX8aZAK2&amp;edm=AP_V10EBAAAA&amp;ccb=7-4&amp;oh=32329ed940137e73fcf58d57098cf683&amp;oe=6133CD47&amp;_nc_sid=4f375e" style="width:10px;height:10px"/>
 
 
 
