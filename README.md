@@ -4,12 +4,12 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on Tech an
   ![](https://komarev.com/ghpvc/?username=mdthegamer&color=dc143c)<br/>
 # <h2>Connect with me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
-[![Twitter Badge](https://img.shields.io/badge/-mizaj_muhammed-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/moshfiqrony/)](https://twitter.com/moshfiqrony/)
-[![Facebook Badge](https://img.shields.io/badge/-Muhammed_Mizaj-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/moshfiqrony/)](https://www.facebook.com/in/moshfiqrony/)
-[![Linkedin Badge](https://img.shields.io/badge/-Muhammed-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moshfiqrony/)](https://www.linkedin.com/in/moshfiqrony/)
-[![Gmail Badge](https://img.shields.io/badge/-mmizaj@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:15203012@iubat.edu)](mailto:15203012@iubat.edu)
+[![Twitter Badge](https://img.shields.io/badge/-mizaj_muhammed-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/mizaj_muhammed)](https://twitter.com/mizaj_muhammed)
+[![Facebook Badge](https://img.shields.io/badge/-Muhammed_Mizaj-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/muhammed.mizaj.3)](https://www.facebook.com/muhammed.mizaj.3)
+[![Linkedin Badge](https://img.shields.io/badge/-Muhammed-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moshfiqrony/)](https://www.linkedin.com/in/muhammed_10/)
+[![Gmail Badge](https://img.shields.io/badge/-mmizaj@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:mmizaj@gmail.com)](mailto:mmizaj@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-Inflective_Techie_World%20-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC4f6w95BfQziD3f_DuZzvyQ)](https://www.youtube.com/channel/UC4f6w95BfQziD3f_DuZzvyQ)
-[![Instagram Badge](https://img.shields.io/badge/-muhammed_10-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/moshfiqrony/)](https://instagram.com/moshfiqrony)
+[![Instagram Badge](https://img.shields.io/badge/-muhammed_10-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/muh_ammed_10/)](https://www.instagram.com/muh_ammed_10/)
 <br><br>
 
 # Info
