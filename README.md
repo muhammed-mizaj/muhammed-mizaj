@@ -6,12 +6,12 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on Tech an
 
 [![Twitter Badge](https://img.shields.io/badge/-mizaj_muhammed-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/mizaj_muhammed)](https://twitter.com/mizaj_muhammed)
 [![Facebook Badge](https://img.shields.io/badge/-Muhammed_Mizaj-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/muhammed.mizaj.3)](https://www.facebook.com/muhammed.mizaj.3)
-[![Linkedin Badge](https://img.shields.io/badge/-Muhammed-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moshfiqrony/)](https://www.linkedin.com/in/muhammed_10/)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-Muhammed-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moshfiqrony/)](https://www.linkedin.com/in/muhammed_10/) -->
 [![Gmail Badge](https://img.shields.io/badge/-mmizaj@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:mmizaj@gmail.com)](mailto:mmizaj@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-Inflective_Techie_World%20-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC4f6w95BfQziD3f_DuZzvyQ)](https://www.youtube.com/channel/UC4f6w95BfQziD3f_DuZzvyQ)
 [![Instagram Badge](https://img.shields.io/badge/-muhammed_10-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/muh_ammed_10/)](https://www.instagram.com/muh_ammed_10/)
 <br><br>
-
+<!-- 
 # Info
 - 🏢 I'm currently working at **None**
 - 🚀 I use daily:
@@ -40,12 +40,21 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on Tech an
   <br><br>
 - ⚡️ Fun fact: I'm a huge fan of No One, I love to eat and travel
 <br><br>
-
+ -->
 
 **🔨 Languages and Tools**  
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/>
 
 
 
@@ -65,7 +74,7 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on Tech an
 <hr>
 
 <p align='center'>
- <img src="https://instagram.fccj2-1.fna.fbcdn.net/v/t51.2885-15/e35/220708104_3915963561847027_1455170104564288361_n.jpg?_nc_ht=instagram.fccj2-1.fna.fbcdn.net&amp;_nc_cat=107&amp;_nc_ohc=YevCHKSAL-4AX8aZAK2&amp;edm=AP_V10EBAAAA&amp;ccb=7-4&amp;oh=32329ed940137e73fcf58d57098cf683&amp;oe=6133CD47&amp;_nc_sid=4f375e" alt="" width="250"  height="300"/>
+<!--  <img src="https://instagram.fccj2-1.fna.fbcdn.net/v/t51.2885-15/e35/220708104_3915963561847027_1455170104564288361_n.jpg?_nc_ht=instagram.fccj2-1.fna.fbcdn.net&amp;_nc_cat=107&amp;_nc_ohc=YevCHKSAL-4AX8aZAK2&amp;edm=AP_V10EBAAAA&amp;ccb=7-4&amp;oh=32329ed940137e73fcf58d57098cf683&amp;oe=6133CD47&amp;_nc_sid=4f375e" alt="" width="250"  height="300"/> -->
  <img src='./md-green.png' width='250' width='250'/>
 </p>
 <!--   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws) --><!--   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab) -->
