@@ -1,4 +1,12 @@
-# Hey, I'm [Muhammed](https://mdthegamer.github.io/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muhammed</h1>
+<h3 align="center">I'm a passionate programmer and devolper from calicut.</h3>
+
+
+
+<!-- Hey, I'm [Muhammed](https://mdthegamer.github.io/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
 I love to talk on trending ⚡ technology ⚡, I have huge attraction on Tech and I am a bit <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50">. <br><br>
   ![](https://komarev.com/ghpvc/?username=mdthegamer&color=dc143c)<br/>
@@ -41,8 +49,10 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on Tech an
 - ⚡️ Fun fact: I'm a huge fan of No One, I love to eat and travel
 <br><br>
  -->
+<p>
+## 🚀 Languages and Tools:
 
-**🔨 Languages and Tools**  
+  <BR>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
@@ -57,6 +67,7 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on Tech an
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/>
 
 
+</p>
 
 <br><br>
 
@@ -70,9 +81,10 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on Tech an
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdthegamer&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mdthegamer&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
-   
+
 <hr>
 
+   
 <p align='center'>
 <!--  <img src="https://instagram.fccj2-1.fna.fbcdn.net/v/t51.2885-15/e35/220708104_3915963561847027_1455170104564288361_n.jpg?_nc_ht=instagram.fccj2-1.fna.fbcdn.net&amp;_nc_cat=107&amp;_nc_ohc=YevCHKSAL-4AX8aZAK2&amp;edm=AP_V10EBAAAA&amp;ccb=7-4&amp;oh=32329ed940137e73fcf58d57098cf683&amp;oe=6133CD47&amp;_nc_sid=4f375e" alt="" width="250"  height="300"/> -->
  <img src='./md-green.png' width='250' width='250'/>
