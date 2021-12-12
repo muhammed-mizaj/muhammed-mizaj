@@ -1,4 +1,5 @@
-<a href="/"><img width="60%" class='center' style={align:center} height="auto" src="https://camo.githubusercontent.com/2a7554f1c8448ed68c071b37895350ba9e33e4bb6494a796b1fc6c5a7dde740a/68747470733a2f2f7374617469632e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" height="150px"/></a>
+
+<a href="/"><img width="60%" align='center' style={align:center} height="auto" src="https://camo.githubusercontent.com/2a7554f1c8448ed68c071b37895350ba9e33e4bb6494a796b1fc6c5a7dde740a/68747470733a2f2f7374617469632e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" height="150px"/></a>
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muhammed</h1>
