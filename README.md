@@ -5,7 +5,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muhammed</h1>
 <h3 align="center">I'm a passionate programmer and devolper from calicut.</h3>
 
-
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=mdthegamer"></img>
+ -->
 
 <!-- Hey, I'm [Muhammed](https://mdthegamer.github.io/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
