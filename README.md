@@ -2,7 +2,7 @@
 <a href="/"><img width="60%" align='center' style={align:center} height="auto" src="https://camo.githubusercontent.com/2a7554f1c8448ed68c071b37895350ba9e33e4bb6494a796b1fc6c5a7dde740a/68747470733a2f2f7374617469632e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" height="100px"/></a>
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muhammed</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Muhammed</h1>
 <h3 align="center">I'm a passionate programmer and devolper from calicut.</h3>
 
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=mdthegamer"></img>
@@ -81,13 +81,13 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on Tech an
 </p>
 
 <br><br>
-
+<!-- 
 <h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2>
+  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="10px" width="10px">
+</h2> -->
 <hr>
 <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammed-mizaj&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=muhammed-mizaj&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
