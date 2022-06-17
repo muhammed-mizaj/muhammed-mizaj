@@ -21,6 +21,10 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on Tech an
 [![Youtube Badge](https://img.shields.io/badge/-Inflective_Techie_World%20-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC4f6w95BfQziD3f_DuZzvyQ)](https://www.youtube.com/channel/UC4f6w95BfQziD3f_DuZzvyQ)
 [![Instagram Badge](https://img.shields.io/badge/-muhammed_10-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/muh_ammed_10/)](https://www.instagram.com/muh_ammed_10/)
 <br><br>
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+![Metrics](https://metrics.lecoq.io/muhammed-mizaj?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+
+
 <!-- 
 # Info
 - 🏢 I'm currently working at **None**
