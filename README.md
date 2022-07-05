@@ -85,6 +85,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-mmizaj@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:mmizaj@gmail.com)](mailto:mmizaj@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-Inflective_Techie_World%20-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC4f6w95BfQziD3f_DuZzvyQ)](https://www.youtube.com/channel/UC4f6w95BfQziD3f_DuZzvyQ)
 [![Instagram Badge](https://img.shields.io/badge/-muhammed_10-purple?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/muh_ammed_10/)](https://www.instagram.com/muh_ammed_10/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Muhammed-skyblue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammed-852a461b0/)](https://www.linkedin.com/in/muhammed-852a461b0/)
 <p align="center">
   
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp;<i><b><a href="https://
