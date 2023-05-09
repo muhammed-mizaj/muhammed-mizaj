@@ -15,8 +15,9 @@
  -->
 <!-- <br><br> -->
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-![Metrics](https://metrics.lecoq.io/muhammed-mizaj?template=classic&isocalendar=1&languages=1&lines=1&repositories=1&introduction=1&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=Asia%2FKolkata)
-
+<!-- ![Metrics](https://metrics.lecoq.io/muhammed-mizaj?template=classic&isocalendar=1&languages=1&lines=1&repositories=1&introduction=1&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=Asia%2FKolkata)
+ -->
+ <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 <!-- 
 # Info
@@ -92,6 +93,7 @@
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp;<i><b><a href="https://muhammedmizaj.vercel.app/">
    My Personal Portfolio
    <a/></b></i></p>
+<!--  <img align="center" src="/github-metrics.svg" alt="Metrics" width="400"> -->
 <!-- Visit my new Portfolio at -->
 <!-- 
 <h2 align="center">
