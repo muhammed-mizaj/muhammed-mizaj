@@ -89,8 +89,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-Muhammed-skyblue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammed-852a461b0/)](https://www.linkedin.com/in/muhammed-852a461b0/)
 <p align="center">
   
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp;<i><b><a href="https://
- .netlify.app/">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp;<i><b><a href="https://muhammedmizaj.vercel.app/">
    My Personal Portfolio
    <a/></b></i></p>
 <!-- Visit my new Portfolio at -->
